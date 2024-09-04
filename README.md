@@ -7,7 +7,7 @@
 
 - 👀 I’m interested in **web development, UI/UX design, and the latest design trends**
 
-- 📫 How to reach me: **email at hcgupta12@example.com**
+- 📫 How to reach me: **email at hoshiarchand0101@gmail.com**
 
 - 🌱 I’m currently learning **advanced JavaScript frameworks and responsive design techniques**
 
